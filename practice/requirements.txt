@@ -1,0 +1,8 @@
+jupyterlab
+ipykernel
+numpy
+pandas
+beautifulsoup4
+fastapi
+httpx
+torch
